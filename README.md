@@ -1,1 +1,1 @@
-<p align="right"># Hi, I'm magic's! 👋</p
+<p align="center">Hi, I'm magic's! 👋</p
